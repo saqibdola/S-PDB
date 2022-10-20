@@ -4,7 +4,7 @@
 
 ### The datasets folder contains:
 
-#### The AA, AAA, ASSE and FAA of protein structres.  These datasets are used for classification. 
+#### The AA, AAA and ASSE of protein structres of two types.  These datasets are used for classification. 
 
 
 ### The AA sequences of protein structures and DALI's results folder contains:
